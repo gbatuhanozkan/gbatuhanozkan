@@ -261,7 +261,7 @@ Tasarım & Simülasyon:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/briefcase.png" width="40"/>
@@ -278,7 +278,7 @@ Tasarım & Simülasyon:
 - Stratejik planlama & uygulama
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/laptop.png" width="40"/>
@@ -295,7 +295,7 @@ Tasarım & Simülasyon:
 - Çoklu müşteri portföyü yönetimi
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/electrical.png" width="40"/>
@@ -312,6 +312,25 @@ Tasarım & Simülasyon:
 - Devre arıza tespiti
 
 </td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+<img src="https://img.icons8.com/fluency/48/electrical.png" width="40"/>
+
+### TTK Karadon Müessesesi
+**Elektrik Mühendisliği**
+*2024 - 2025*
+
+</div>
+
+- Elektrik bakımı ve onarımı
+- Kotlardaki kuyu motoru ve vinç kontrolleri
+- PLC otomasyonu ile su havuzlarının boşaltılması projesi
+- Autocad üzerinden PLC ve elektrik tesisatının çizimi
+
+</td>
+
 </tr>
 </table>
 
