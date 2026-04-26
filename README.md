@@ -16,9 +16,9 @@
 
 <br>
 
-## 🎯 Profesyonel Özet
+## 🎯 Profesyonel Bir Marka Yaratıyorum Projelerime buradan ulaşabilirsiniz.
 
-> **Veri odaklı pazarlama stratejileri ve yenilikçi mühendislik çözümleriyle işletmeleri dönüştürüyorum.**
+> **Veri odaklı pazarlama stratejileri ve yenilikçi mühendislik çözümleriyle sıfırdan başlayarak seneler harcamak dfeğil kısa sürede algoritmayı ve dijital platformların ypay zeka ile mühendisliğini birleştiren çözümler üretmeye başlıyorum..**
 
 Kanıtlanmış **%150 ROI artışı** ve **2M+ organik erişim** başarılarıyla stratejik dijital pazarlama profesyoneli. Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimi alırken, **E-SYNER**'de yüksek performanslı bir pazarlama ekibini yönetiyorum. Meta Ads yönetimi, performans pazarlaması ve gömülü sistemler geliştirmede uzmanım.
 
