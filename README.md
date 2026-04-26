@@ -122,7 +122,29 @@ Tasarım & Simülasyon:
 ### Analitik & Verimlilik
 
 </div>
-
+<p align="center">
+  <a href="https://business.facebook.com/">
+    <img src="https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+  </a>
+  <a href="https://analytics.google.com/">
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  </a>
+  <a href="https://ads.google.com/">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  </a>
+  <a href="https://miro.com/">
+    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+  </a>
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
