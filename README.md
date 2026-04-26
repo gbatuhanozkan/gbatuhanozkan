@@ -316,7 +316,7 @@ Yapay zeka destekli reklam bütçe optimizasyon aracı. Makine öğrenmesi ile e
 </tr>
 </table>
 
-</div>
+
 
 <!-- 
 YÜZDELİĞİ DEĞİŞTİRMEK İÇİN:
