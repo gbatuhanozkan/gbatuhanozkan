@@ -369,7 +369,7 @@ Tasarım & Simülasyon:
 <table>
 <tr>
 
-<td width="50%">
+<td width="25%">
 
 ### 📊 E-Ticaret İstihbarat Platformu
 **Çok kanallı kampanyalar için gerçek zamanlı analitik panosu**
@@ -389,7 +389,7 @@ Tasarım & Simülasyon:
 </td>
 
 
-  <td width="50%">
+  <td width="25%">
 
 ### 💡 IoT Pazarlama Sistemi
 **Akıllı dijital reklam çözümü**
@@ -408,7 +408,7 @@ Tasarım & Simülasyon:
 - Yapay zeka optimizasyonu
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### 🔌 Gömülü Sistemler Portföyü
 **KOBİ'ler için endüstriyel otomasyon & kontrol projeleri**
@@ -427,7 +427,7 @@ Tasarım & Simülasyon:
 - Yapay Zeka Optimizasyonu
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### 🔌 Enerji İLetim HAtlarında Oluşan Kayıplar ve Açısal Bozukluklar
 **Hatlarda yaşanan sorunları yenilenebilir enerji ile kayıpları azalltma ve otomasyonnu kurmak**
