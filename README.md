@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Batuhan%20Özkan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Marketing%20Strategist%20%7C%20Electrical%20Engineering%20Student&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Batuhan%20Özkan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Dijital%20Pazarlama%20Stratejisti%20%7C%20Elektrik-Elektronik%20Mühendisliği%20Öğrencisi&descAlignY=55&descAlign=50" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Meta+Ads+Specialist+%26+Growth+Marketer;E-Commerce+Analytics+%7C+ROI+Optimization;Embedded+Systems+%26+IoT+Developer;Building+Digital+Success+Stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Meta+Ads+Uzmanı+%26+Büyüme+Pazarlamacısı;E-Ticaret+Analitiği+%7C+ROI+Optimizasyonu;Gömülü+Sistemler+%26+IoT+Geliştirici;Dijital+Başarı+Hikayeleri+Oluşturuyorum" alt="Typing SVG" />
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/batuhan-özkan-94119a295)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gbatuhanozkan.wordpress.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbatuhanozkan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905438074853)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/batuhan-özkan-94119a295)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ziyaret_Et-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gbatuhanozkan.wordpress.com)
+[![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbatuhanozkan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mesaj-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905438074853)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -17,17 +17,17 @@
 
 <br>
 
-## 🎯 Professional Summary
+## 🎯 Profesyonel Özet
 
-> **Transforming businesses through data-driven marketing strategies and innovative engineering solutions.**
+> **Veri odaklı pazarlama stratejileri ve yenilikçi mühendislik çözümleriyle işletmeleri dönüştürüyorum.**
 
-Strategic digital marketing professional with a proven track record of delivering **340% ROI increase** and **10M+ organic reach**. Currently pursuing Electrical & Electronics Engineering at Zonguldak Bulent Ecevit University while leading a high-performance marketing team at **E-SYNER**. Specialized in Meta Ads management, performance marketing, and embedded systems development.
+Kanıtlanmış **%340 ROI artışı** ve **10M+ organik erişim** başarılarıyla stratejik dijital pazarlama profesyoneli. Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimi alırken, **E-SYNER**'de yüksek performanslı bir pazarlama ekibini yönetiyorum. Meta Ads yönetimi, performans pazarlaması ve gömülü sistemler geliştirmede uzmanım.
 
 <br>
 
 <div align="center">
 
-## 💼 Core Competencies
+## 💼 Temel Yetkinlikler
 
 </div>
 
@@ -35,55 +35,55 @@ Strategic digital marketing professional with a proven track record of deliverin
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Digital Marketing & Growth
+### 🚀 Dijital Pazarlama & Büyüme
 
 ```yaml
-Strategic Planning:
-  ├─ Meta Ads Management (Facebook & Instagram)
-  ├─ Google Ads & YouTube Campaigns
-  ├─ Performance Marketing & Analytics
-  ├─ A/B Testing & Conversion Optimization
-  └─ Multi-Channel Attribution Modeling
+Stratejik Planlama:
+  ├─ Meta Ads Yönetimi (Facebook & Instagram)
+  ├─ Google Ads & YouTube Kampanyaları
+  ├─ Performans Pazarlaması & Analitik
+  ├─ A/B Testing & Dönüşüm Optimizasyonu
+  └─ Çok Kanallı Atıf Modellemesi
 
-Content & Brand:
-  ├─ Social Media Strategy Development
-  ├─ Influencer Partnership Management
-  ├─ Viral Campaign Creation
-  ├─ Brand Positioning & Messaging
-  └─ Content Calendar Management
+İçerik & Marka:
+  ├─ Sosyal Medya Strateji Geliştirme
+  ├─ Influencer Ortaklık Yönetimi
+  ├─ Viral Kampanya Oluşturma
+  ├─ Marka Konumlandırma & Mesajlaşma
+  └─ İçerik Takvimi Yönetimi
 
-Analytics & Insights:
+Analitik & İçgörüler:
   ├─ Google Analytics & Tag Manager
   ├─ Meta Business Suite
-  ├─ Data-Driven Decision Making
-  ├─ ROI & KPI Tracking
-  └─ Customer Journey Mapping
+  ├─ Veri Odaklı Karar Verme
+  ├─ ROI & KPI Takibi
+  └─ Müşteri Yolculuğu Haritalama
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Engineering & Technology
+### ⚡ Mühendislik & Teknoloji
 
 ```yaml
-Embedded Systems:
-  ├─ Microcontroller Programming (Arduino)
-  ├─ IoT Solutions Development
-  ├─ Circuit Design & PCB Layout
-  ├─ PLC Programming (Siemens S7-1200)
-  └─ Signal Processing & Analysis
+Gömülü Sistemler:
+  ├─ Mikrodenetleyici Programlama (Arduino)
+  ├─ IoT Çözüm Geliştirme
+  ├─ Devre Tasarımı & PCB Yerleşimi
+  ├─ PLC Programlama (Siemens S7-1200)
+  └─ Sinyal İşleme & Analiz
 
-Software Development:
-  ├─ C/C++ Programming
-  ├─ Python for Automation
+Yazılım Geliştirme:
+  ├─ C/C++ Programlama
+  ├─ Python ile Otomasyon
   ├─ MATLAB/Simulink
-  ├─ Web Technologies (HTML/CSS)
-  └─ API Integration
+  ├─ Web Teknolojileri (HTML/CSS)
+  └─ API Entegrasyonu
 
-Design & Simulation:
-  ├─ Proteus (Circuit Simulation)
-  ├─ Tinkercad (3D Modeling)
-  ├─ AutoCAD 2D (Technical Drawing)
+Tasarım & Simülasyon:
+  ├─ Proteus (Devre Simülasyonu)
+  ├─ Tinkercad (3D Modelleme)
+  ├─ AutoCAD 2D (Teknik Çizim)
   ├─ Altium Designer (PCB)
   └─ Fusion 360 (3D CAD)
 ```
@@ -96,11 +96,11 @@ Design & Simulation:
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## 🛠️ Teknoloji Yığını
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### Digital Marketing & Creative Tools
+### Dijital Pazarlama & Kreatif Araçlar
 
 </div>
 
@@ -119,7 +119,7 @@ Design & Simulation:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### Analytics & Productivity
+### Analitik & Verimlilik
 
 </div>
 
@@ -135,7 +135,7 @@ Design & Simulation:
 
 <div align="center">
 
-### Programming & Development
+### Programlama & Geliştirme
 
 </div>
 
@@ -145,7 +145,7 @@ Design & Simulation:
 
 <div align="center">
 
-### Engineering & Electronics
+### Mühendislik & Elektronik
 
 </div>
 
@@ -167,7 +167,7 @@ Design & Simulation:
 
 <br><br>
 
-## 📊 Performance Metrics
+## 📊 Performans Metrikleri
 
 </div>
 
@@ -175,30 +175,30 @@ Design & Simulation:
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br>
-  <b>340%</b><br>
-  <sub>ROI Increase</sub>
+  <b>%340</b><br>
+  <sub>ROI Artışı</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="60"/><br>
   <b>10M+</b><br>
-  <sub>Organic Reach</sub>
+  <sub>Organik Erişim</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/savings.png" width="60"/><br>
-  <b>45%</b><br>
-  <sub>Cost Reduction</sub>
+  <b>%45</b><br>
+  <sub>Maliyet Azaltma</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="60"/><br>
   <b>50K+</b><br>
-  <sub>Followers Growth</sub>
+  <sub>Takipçi Büyümesi</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-## 💼 Professional Experience
+## 💼 İş Deneyimi
 
 <table>
 <tr>
@@ -208,15 +208,15 @@ Design & Simulation:
 <img src="https://img.icons8.com/fluency/48/briefcase.png" width="40"/>
 
 ### E-SYNER
-**Digital Marketing Manager**
-*2023 - Present*
+**Dijital Pazarlama Müdürü**
+*2023 - Devam Ediyor*
 
 </div>
 
-- Leading cross-functional marketing team
-- Managing 6-figure ad budgets
-- Driving 340% ROI across campaigns
-- Strategic planning & execution
+- Çapraz fonksiyonel pazarlama ekibi yönetimi
+- 6 haneli reklam bütçesi yönetimi
+- Kampanyalarda %340 ROI sağlama
+- Stratejik planlama & uygulama
 
 </td>
 <td width="33%" valign="top">
@@ -224,16 +224,16 @@ Design & Simulation:
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/laptop.png" width="40"/>
 
-### Freelance Consultant
-**Social Media & Design**
-*2023 - Present*
+### Freelance Danışman
+**Sosyal Medya & Tasarım**
+*2023 - Devam Ediyor*
 
 </div>
 
-- Bionluk platform specialist
-- Brand strategy development
-- Content creation & management
-- Multi-client portfolio management
+- Bionluk platform uzmanı
+- Marka stratejisi geliştirme
+- İçerik oluşturma & yönetimi
+- Çoklu müşteri portföyü yönetimi
 
 </td>
 <td width="33%" valign="top">
@@ -242,15 +242,15 @@ Design & Simulation:
 <img src="https://img.icons8.com/fluency/48/electrical.png" width="40"/>
 
 ### Kod Elektronik
-**Electronics Technician**
+**Elektronik Teknisyeni**
 *2022 - 2023*
 
 </div>
 
-- Electronic systems installation
-- Security system configuration
-- Technical support & maintenance
-- Circuit troubleshooting
+- Elektronik sistem kurulumu
+- Güvenlik sistemi konfigürasyonu
+- Teknik destek & bakım
+- Devre arıza tespiti
 
 </td>
 </tr>
@@ -258,44 +258,44 @@ Design & Simulation:
 
 <br>
 
-## 🚀 Current Projects
+## 🚀 Aktif Projeler
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 E-Commerce Intelligence Platform
-**Real-time analytics dashboard for multi-channel campaigns**
+### 📊 E-Ticaret İstihbarat Platformu
+**Çok kanallı kampanyalar için gerçek zamanlı analitik panosu**
 
-🎯 **Objective:** Unified analytics solution integrating Meta Ads, Google Analytics, and e-commerce platforms
+🎯 **Amaç:** Meta Ads, Google Analytics ve e-ticaret platformlarını entegre eden birleşik analitik çözümü
 
-🛠️ **Tech Stack:** Python, C, MATLAB, APIs
+🛠️ **Teknoloji:** Python, C, MATLAB, API'lar
 
-📈 **Status:** In Development
+📈 **Durum:** Geliştirme Aşamasında
 
-**Key Features:**
-- Real-time performance tracking
-- Automated reporting
-- Predictive analytics
-- ROI calculator
+**Temel Özellikler:**
+- Gerçek zamanlı performans takibi
+- Otomatik raporlama
+- Tahmine dayalı analitik
+- ROI hesaplayıcı
 
 </td>
 <td width="50%">
 
-### 🤖 Social Media Automation Suite
-**Multi-platform content scheduler & analytics tool**
+### 🤖 Sosyal Medya Otomasyon Paketi
+**5+ platform için çoklu platform içerik planlayıcı & analitik aracı**
 
-🎯 **Objective:** Streamline social media management across 5+ platforms
+🎯 **Amaç:** Sosyal medya yönetimini kolaylaştırma
 
-🛠️ **Tech Stack:** Python, HTML/CSS, APIs
+🛠️ **Teknoloji:** Python, HTML/CSS, API'lar
 
-📈 **Status:** Beta Testing
+📈 **Durum:** Beta Test Aşamasında
 
-**Key Features:**
-- Automated posting
-- Analytics integration
-- Content calendar
-- Performance insights
+**Temel Özellikler:**
+- Otomatik içerik paylaşımı
+- Analitik entegrasyonu
+- İçerik takvimi
+- Performans içgörüleri
 
 </td>
 </tr>
@@ -303,44 +303,44 @@ Design & Simulation:
 
 <br>
 
-## 🔮 Upcoming Projects
+## 🔮 Planlanan Projeler
 
 <table>
 <tr>
 <td width="50%">
 
-### 💡 IoT Marketing Display System
-**Smart digital advertising with Arduino**
+### 💡 IoT Pazarlama Ekran Sistemi
+**Arduino ile akıllı dijital reklam çözümü**
 
-🎯 **Objective:** Real-time campaign display with IoT integration
+🎯 **Amaç:** IoT entegrasyonlu gerçek zamanlı kampanya gösterimi
 
-🛠️ **Tech Stack:** Arduino, C, Proteus, LCD Modules
+🛠️ **Teknoloji:** Arduino, C, Proteus, LCD Modüller
 
-📅 **Timeline:** Q2 2026
+📅 **Zaman Çizelgesi:** 2026 2. Çeyrek
 
-**Planned Features:**
-- Remote content management
-- Real-time analytics sync
-- Energy-efficient design
-- Modular architecture
+**Planlanan Özellikler:**
+- Uzaktan içerik yönetimi
+- Gerçek zamanlı analitik senkronizasyonu
+- Enerji verimli tasarım
+- Modüler mimari
 
 </td>
 <td width="50%">
 
-### 🔌 Embedded Systems Portfolio
-**Industrial automation & control projects**
+### 🔌 Gömülü Sistemler Portföyü
+**KOBİ'ler için endüstriyel otomasyon & kontrol projeleri**
 
-🎯 **Objective:** Smart automation solutions for SMEs
+🎯 **Amaç:** Akıllı otomasyon çözümleri
 
-🛠️ **Tech Stack:** PLC Siemens S7-1200, C, Altium
+🛠️ **Teknoloji:** PLC Siemens S7-1200, C, Altium
 
-📅 **Timeline:** Q3 2026
+📅 **Zaman Çizelgesi:** 2026 3. Çeyrek
 
-**Planned Features:**
-- PLC programming
-- HMI interface design
-- SCADA integration
-- Preventive maintenance
+**Planlanan Özellikler:**
+- PLC programlama
+- HMI arayüz tasarımı
+- SCADA entegrasyonu
+- Önleyici bakım
 
 </td>
 </tr>
@@ -350,7 +350,7 @@ Design & Simulation:
 
 <div align="center">
 
-## 🎓 Education & Certifications
+## 🎓 Eğitim & Sertifikalar
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
@@ -360,34 +360,34 @@ Design & Simulation:
 <tr>
 <td width="50%">
 
-### 🎓 Academic Background
+### 🎓 Akademik Geçmiş
 
-**Bachelor of Science** - *In Progress*  
-Electrical & Electronics Engineering  
-Zonguldak Bulent Ecevit University  
-*Expected Graduation: 2026*
+**Lisans** - *Devam Ediyor*  
+Elektrik-Elektronik Mühendisliği  
+Zonguldak Bülent Ecevit Üniversitesi  
+*Beklenen Mezuniyet: 2026*
 
-**Associate Degree** - *Completed*  
-Electronic Technology  
-Tekirdag Namik Kemal University  
-*Graduated: 2023*
+**Ön Lisans** - *Tamamlandı*  
+Elektronik Teknolojisi  
+Tekirdağ Namık Kemal Üniversitesi  
+*Mezuniyet: 2023*
 
 </td>
 <td width="50%">
 
-### 🏆 Professional Certifications
+### 🏆 Profesyonel Sertifikalar
 
-**BTK Academy**
-- ✅ Social Media Marketing Fundamentals
-- ✅ LinkedIn Profile Optimization
-- ✅ Presentation & Communication Skills
-- ✅ Customer Relationship Management
-- ✅ Social Engineering & Security
+**BTK Akademi**
+- ✅ Sosyal Medya Pazarlama Temelleri
+- ✅ LinkedIn Profil Optimizasyonu
+- ✅ Sunum & İletişim Becerileri
+- ✅ Müşteri İlişkileri Yönetimi
+- ✅ Sosyal Mühendislik & Güvenlik
 
-**Bilge İş Academy**
-- ✅ Arduino Microcontroller Programming
-- ✅ Programming Fundamentals
-- ✅ 3D Modeling & Printing
+**Bilge İş Akademi**
+- ✅ Arduino Mikrodenetleyici Programlama
+- ✅ Programlama Temelleri
+- ✅ 3D Modelleme & Baskı
 
 </td>
 </tr>
@@ -397,18 +397,62 @@ Tekirdag Namik Kemal University
 
 <div align="center">
 
-## 📝 Industry Expertise
+## 📋 Sektör Uzmanlığı
+
+<table>
+<tr>
+<td align="center" width="14.28%">
+🏥<br><b>Sağlık</b>
+</td>
+<td align="center" width="14.28%">
+💄<br><b>Güzellik &<br>Kozmetik</b>
+</td>
+<td align="center" width="14.28%">
+🏗️<br><b>Gayrimenkul</b>
+</td>
+<td align="center" width="14.28%">
+📚<br><b>Eğitim</b>
+</td>
+<td align="center" width="14.28%">
+🎨<br><b>El Sanatları</b>
+</td>
+<td align="center" width="14.28%">
+👶<br><b>Anne & Bebek</b>
+</td>
+<td align="center" width="14.28%">
+🏠<br><b>Ev<br>Dekorasyonu</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="14.28%">
+⚽<br><b>Spor &<br>Fitness</b>
+</td>
+<td align="center" width="14.28%">
+💻<br><b>Teknoloji</b>
+</td>
+<td align="center" width="14.28%">
+✈️<br><b>Turizm &<br>Seyahat</b>
+</td>
+<td align="center" width="14.28%">
+🐾<br><b>Evcil Hayvan<br>Bakımı</b>
+</td>
+<td align="center" width="14.28%">
+🏡<br><b>Prefabrik &<br>Çelik Ev</b>
+</td>
+<td align="center" width="14.28%">
+🏢<br><b>İnşaat</b>
+</td>
+<td align="center" width="14.28%">
+🎓<br><b>Danışmanlık</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-<p align="center">
-🏥 <b>Healthcare</b> • 💄 <b>Beauty & Cosmetics</b> • 🏗️ <b>Real Estate</b> • 📚 <b>Education</b> • 🎨 <b>Arts & Crafts</b><br>
-👶 <b>Mother & Baby</b> • 🏠 <b>Home Decor</b> • ⚽ <b>Sports & Fitness</b> • 💻 <b>Technology</b> • ✈️ <b>Travel & Tourism</b> • 🐾 <b>Pet Care</b>
-</p>
-
 <br>
 
-## 📞 Let's Connect
+## 📞 İletişim
 
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-özkan-94119a295">
@@ -439,31 +483,31 @@ Tekirdag Namik Kemal University
     <img src="https://img.shields.io/badge/Portfolio-gbatuhanozkan.wordpress.com-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
   <a href="https://gbatuhanozkan8.wordpress.com">
-    <img src="https://img.shields.io/badge/Blog-Digital_Marketing_Insights-00C851?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-Dijital_Pazarlama_İçgörüleri-00C851?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-## 🎯 2026 Strategic Goals
+## 🎯 2026 Stratejik Hedefler
 
 <table align="center">
 <tr>
-  <td width="35%"><b>🎯 Impact 1,000+ Businesses</b></td>
+  <td width="35%"><b>🎯 1,000+ İşletmeye Etki</b></td>
   <td width="55%">
     <img src="https://geps.dev/progress/60?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
   <td width="10%"><b>60%</b></td>
 </tr>
 <tr>
-  <td width="35%"><b>💼 200+ Strategic Meetings</b></td>
+  <td width="35%"><b>💼 200+ Stratejik Görüşme</b></td>
   <td width="55%">
     <img src="https://geps.dev/progress/35?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
   <td width="10%"><b>35%</b></td>
 </tr>
 <tr>
-  <td width="35%"><b>🌍 Global Brand Recognition</b></td>
+  <td width="35%"><b>🌍 Global Marka Tanınırlığı</b></td>
   <td width="55%">
     <img src="https://geps.dev/progress/15?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
@@ -477,16 +521,16 @@ Tekirdag Namik Kemal University
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-### 💡 Let's Build Something Extraordinary Together
+### 💡 Birlikte Olağanüstü Bir Şey Yapalım
 
-**Open to:** Strategic Partnerships • Consulting Opportunities • Technical Collaborations • Speaking Engagements
+**Açığım:** Stratejik Ortaklıklar • Danışmanlık Fırsatları • Teknik İş Birlikleri • Konuşmacılık
 
-<img src="https://komarev.com/ghpvc/?username=gbatuhanozkan&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=gbatuhanozkan&label=Profil%20Görüntüleme&color=2E9EF7&style=for-the-badge" alt="Profile views" />
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=120&section=footer"/>
 
-**© 2026 Batuhan Özkan** • *Transforming Ideas into Impact*
+**© 2026 Batuhan Özkan** • *Fikirleri Etkiye Dönüştürüyorum*
 
 </div>
