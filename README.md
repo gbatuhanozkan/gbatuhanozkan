@@ -128,15 +128,31 @@ Tasarım & Simülasyon:
 
 ### 📊 Kullandığım Araçlar
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/meta/1877F2" width="60" height="60" alt="Meta Business" />
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="60" height="60" alt="Google Analytics" />
-  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="60" height="60" alt="Google Ads" />
-  <img src="https://cdn.simpleicons.org/notion/000000" width="60" height="60" alt="Notion" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" width="60" height="60" alt="Trello" />
-  <img src="https://cdn.simpleicons.org/miro/050038" width="60" height="60" alt="Miro" />
-  <img src="https://cdn.simpleicons.org/anthropic/6B4FBB" width="60" height="60" alt="Claude AI" />
-</p>
+<table style="border: none;">
+<tr style="border: none;">
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/meta/1877F2" width="60" height="60" alt="Meta Business" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="60" height="60" alt="Google Analytics" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/googleads/4285F4" width="60" height="60" alt="Google Ads" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/notion/000000" width="60" height="60" alt="Notion" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/trello/0052CC" width="60" height="60" alt="Trello" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/miro/050038" width="60" height="60" alt="Miro" />
+</td>
+<td align="center" style="border: none;">
+<img src="https://cdn.simpleicons.org/anthropic/6B4FBB" width="60" height="60" alt="Claude AI" />
+</td>
+</tr>
+</table>
 
 </div>
 
