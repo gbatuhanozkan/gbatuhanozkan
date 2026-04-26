@@ -321,24 +321,26 @@ Tasarım & Simülasyon:
 
 <table>
 <tr>
-<td width="50%">
 
-### 📊 E-Ticaret İstihbarat Platformu
-**Çok kanallı kampanyalar için gerçek zamanlı analitik panosu**
+  <td width="50%">
 
-🎯 **Amaç:** Meta Ads, Google Analytics ve e-ticaret platformlarını entegre eden birleşik analitik çözümü
+### 🛠️ İçerik Analizi ve Planlama
+**YZ Destekli analiz ajan tasarımı**
 
-🛠️ **Teknoloji:** Python, C, MATLAB, API'lar
+🎯 **Amaç:** İçerik üreticilerin video ve seo optimizasyonu yapabilen bir sistem
 
-📈 **Durum:** Geliştirme Aşamasında
+🛠️ **Teknoloji:** Claude, Gemini, Ollama, E-SYNER web sitesi sistemi
 
-**Temel Özellikler:**
-- Gerçek zamanlı performans takibi
-- Otomatik raporlama
-- Tahmine dayalı analitik
-- ROI hesaplayıcı
+📅 **Zaman Çizelgesi:** 2026 4. Çeyrek
+
+**Planlanan Özellikler:**
+- Haftalık Aylık Planlama
+- Gerçek zamanlı güncel video analizi ve düzenltme önerileri
+- Hızlı büyüme garantili yol haritası oluşturmas
+- SEO ile rakiplerin önüne geçme
 
 </td>
+
 <td width="50%">
 
 ### 🤖 Sosyal Medya Otomasyon Paketi
@@ -346,7 +348,7 @@ Tasarım & Simülasyon:
 
 🎯 **Amaç:** Sosyal medya yönetimini kolaylaştırma
 
-🛠️ **Teknoloji:** Python, HTML/CSS, API'lar
+🛠️ **Teknoloji:** Python, HTML/CSS, API'lar, Yapaz zeka
 
 📈 **Durum:** Beta Test Aşamasında
 
@@ -366,22 +368,44 @@ Tasarım & Simülasyon:
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 💡 IoT Pazarlama Ekran Sistemi
-**Arduino ile akıllı dijital reklam çözümü**
+### 📊 E-Ticaret İstihbarat Platformu
+**Çok kanallı kampanyalar için gerçek zamanlı analitik panosu**
+
+🎯 **Amaç:** Meta Ads, Google Analytics ve e-ticaret platformlarını entegre eden birleşik analitik çözümü
+
+🛠️ **Teknoloji:** Python, C, MATLAB, API'lar
+
+📈 **Durum:** Geliştirme Aşamasında
+
+**Temel Özellikler:**
+- Gerçek zamanlı performans takibi
+- Otomatik raporlama
+- Tahmine dayalı analitik
+- ROI hesaplayıcı
+
+</td>
+
+
+  <td width="50%">
+
+### 💡 IoT Pazarlama Sistemi
+**Akıllı dijital reklam çözümü**
 
 🎯 **Amaç:** IoT entegrasyonlu gerçek zamanlı kampanya gösterimi
 
 🛠️ **Teknoloji:** Arduino, C, Proteus, LCD Modüller
 
-📅 **Zaman Çizelgesi:** 2026 2. Çeyrek
+📅 **Zaman Çizelgesi:** 2027 1. Çeyrek
 
 **Planlanan Özellikler:**
 - Uzaktan içerik yönetimi
 - Gerçek zamanlı analitik senkronizasyonu
 - Enerji verimli tasarım
 - Modüler mimari
+- Yapay zeka optimizasyonu
 
 </td>
 <td width="50%">
@@ -400,8 +424,32 @@ Tasarım & Simülasyon:
 - HMI arayüz tasarımı
 - SCADA entegrasyonu
 - Önleyici bakım
+- Yapay Zeka Optimizasyonu
 
 </td>
+<td width="50%">
+
+### 🔌 Enerji İLetim HAtlarında Oluşan Kayıplar ve Açısal Bozukluklar
+**Hatlarda yaşanan sorunları yenilenebilir enerji ile kayıpları azalltma ve otomasyonnu kurmak**
+
+🎯 **Amaç:** Hatlarda yaşanan kaçaklar akımlar ve gerilim kayıplarını sıfıra yakın iletme yönetme ve minimum maliyetle yenilenebilir enerji kaynakları optimizasyonuna entegre edebilme
+
+🛠️ **Teknoloji:** PLC, C, Altium, Elektrik, Matlab, Autocad
+
+📅 **Zaman Çizelgesi:** 2027 3. Çeyrek
+
+**Planlanan Özellikler:**
+- PLC programlama
+- PCB tasarımı
+- SCADA entegrasyonu
+- Önleyici bakım
+- Yapay Zeka Optimizasyonu
+- Dönüştürülebilir enerji
+- Enerji tasarrufu
+- Kayıp Öneleme
+
+</td>
+
 </tr>
 </table>
 
