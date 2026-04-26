@@ -20,7 +20,16 @@
 
 > **Veri odaklı pazarlama stratejileri ve yenilikçi mühendislik çözümleriyle sıfırdan başlayarak seneler harcamak dfeğil kısa sürede algoritmayı ve dijital platformların ypay zeka ile mühendisliğini birleştiren çözümler üretmeye başlıyorum..**
 
-Kanıtlanmış **%150 ROI artışı** ve **2M+ organik erişim** başarılarıyla stratejik dijital pazarlama profesyoneli. Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimi alırken, **E-SYNER**'de yüksek performanslı bir pazarlama ekibini yönetiyorum. Meta Ads yönetimi, performans pazarlaması ve gömülü sistemler geliştirmede uzmanım.
+
+Dijital pazarlama ve mühendislik disiplinlerini harmanlayarak işletmelere ölçülebilir sonuçlar sağlıyorum. **E-SYNER** kurma aşamasında kurucu pozisyonda yer alarak **%150 ROI artışı** ve **2M+ organik erişim** gibi kanıtlanmış başarılara imza attım. Aynı zamanda Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimimi sürdürürken, teknolojiyi pazarlama stratejileriyle buluşturuyorum.
+
+**Meta Ads** kampanya yönetiminde uzmanlaşmış, performans pazarlaması ve veri analitiği konularında derinleşmiş bir profesyonel olarak pazarın en etkili reklamlarını analiz ederek zorlukları aşmayı planlıyorum. Mühendislik eğitimim sürerken **Arduino**, **PLC programlama** ve **IoT çözümleri** ile gömülü sistemler geliştirerek dijital pazarlamanın fiziksel dünyayla entegrasyonunu sağlamayı hedefliyorum.
+
+Freelance danışman olarak **Bionluk** platformunda çeşitli sektörlerden müşterilere hizmet verirken, her projeyi bir başarı hikayesine dönüştürmeyi amaçlıyorum. Sağlıktan e-ticarete, eğitimden gayrimenkule kadar geniş bir yelpazede **marka stratejileri geliştiriyor**, **içerik oluşturuyor** ve **kampanya optimizasyonu** yapıyorum.
+
+Amacım sadece mevcut başarıları tekrar etmek değil, **yapay zeka destekli otomasyon araçları** ve **veri bilimi** ile pazarlama dünyasına yenilikçi çözümler kazandırmak. Geliştirmekte olduğum **E-Ticaret İstihbarat Platformu** ve **Sosyal Medya Otomasyon Paketi** projeleri, bu vizyonun ilk adımları. Bunun yanında içerik üreticilerinin karşılaştığı istikrar ve planlama sorunlarını analiz ederek, onların kısa sürede hedeflerine ulaşmalarını sağlayacak bir **yapay zeka ajanı** üzerinde de çalışmalarımı sürdürmekteyim.
+
+Geleceği öngörerek attığım bu adımda, yapay zekanın her alana girmesiyle birlikte özgün içeriklerin korunması önem kazanıyor. Bu ajanlar, "Bunu yaptım ama nerede hata yaptım?" sorusuna yanıt vererek, işlerimizi uzaktan ve verimli bir şekilde yönetme olanağı sunuyor. Teknolojinin insan yaratıcılığını desteklediği, yerine geçmediği bir ekosistem oluşturmayı hedefliyorum.
 
 <br>
 
