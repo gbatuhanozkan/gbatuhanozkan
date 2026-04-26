@@ -20,7 +20,7 @@
 
 > **Veri odaklı pazarlama stratejileri ve yenilikçi mühendislik çözümleriyle işletmeleri dönüştürüyorum.**
 
-Kanıtlanmış **%340 ROI artışı** ve **10M+ organik erişim** başarılarıyla stratejik dijital pazarlama profesyoneli. Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimi alırken, **E-SYNER**'de yüksek performanslı bir pazarlama ekibini yönetiyorum. Meta Ads yönetimi, performans pazarlaması ve gömülü sistemler geliştirmede uzmanım.
+Kanıtlanmış **%150 ROI artışı** ve **2M+ organik erişim** başarılarıyla stratejik dijital pazarlama profesyoneli. Zonguldak Bülent Ecevit Üniversitesi'nde Elektrik-Elektronik Mühendisliği eğitimi alırken, **E-SYNER**'de yüksek performanslı bir pazarlama ekibini yönetiyorum. Meta Ads yönetimi, performans pazarlaması ve gömülü sistemler geliştirmede uzmanım.
 
 <br>
 
@@ -282,7 +282,7 @@ Tasarım & Simülasyon:
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br>
-  <b>%250</b><br>
+  <b>%150</b><br>
   <sub>ROI Artışı</sub>
 </td>
 <td align="center" width="25%">
