@@ -1,0 +1,31 @@
+<svg width="700" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="150" fill="#0d1117" rx="10"/>
+  
+  <image href="https://cdn.simpleicons.org/meta/1877F2" x="30" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/googleanalytics/E37400" x="130" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/googleads/4285F4" x="230" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/notion/000000" x="330" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/trello/0052CC" x="430" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/miro/050038" x="530" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.simpleicons.org/anthropic/6B4FBB" x="620" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.8s" repeatCount="indefinite"/>
+  </image>
+</svg>
