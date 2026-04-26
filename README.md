@@ -290,8 +290,6 @@ Yapay zeka destekli reklam bütçe optimizasyon aracı. Makine öğrenmesi ile e
 
 ### 🎯 2026 Hedeflerim
 
-<div align="center">
-
 <table>
 <tr>
   <td width="35%"><b>📊 1000+ Kişiye Dokunmak</b></td>
@@ -316,14 +314,11 @@ Yapay zeka destekli reklam bütçe optimizasyon aracı. Makine öğrenmesi ile e
 </tr>
 </table>
 
-
-
 <!-- 
 YÜZDELİĞİ DEĞİŞTİRMEK İÇİN:
 1. progress/60 → progress/85 (istediğiniz yüzde)
 2. <b>60%</b> → <b>85%</b> (yüzde rakamını değiştir)
 -->
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
