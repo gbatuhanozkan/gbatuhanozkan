@@ -289,34 +289,40 @@ Yapay zeka destekli reklam bütçe optimizasyon aracı. Makine öğrenmesi ile e
 > *Her kampanya bir deney, her veri bir öğrenme fırsatıdır."*
 
 ### 🎯 2026 Hedeflerim
-```
+
 <div align="center">
 
 <table>
 <tr>
   <td width="35%"><b>📊 1000+ Kişiye Dokunmak</b></td>
   <td width="55%">
-    <img src="https://geps.dev/progress/60" />
+    <img src="https://geps.dev/progress/60?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
   <td width="10%"><b>60%</b></td>
 </tr>
 <tr>
   <td width="35%"><b>💼 200+ Toplantı Rekor Kırmak</b></td>
   <td width="55%">
-    <img src="https://geps.dev/progress/35" />
+    <img src="https://geps.dev/progress/35?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
   <td width="10%"><b>35%</b></td>
 </tr>
 <tr>
   <td width="35%"><b>🌍 Global Marka Olmak</b></td>
   <td width="55%">
-    <img src="https://geps.dev/progress/15" />
+    <img src="https://geps.dev/progress/15?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
   <td width="10%"><b>15%</b></td>
 </tr>
 </table>
 
 </div>
+
+<!-- 
+YÜZDELİĞİ DEĞİŞTİRMEK İÇİN:
+1. progress/60 → progress/85 (istediğiniz yüzde)
+2. <b>60%</b> → <b>85%</b> (yüzde rakamını değiştir)
+-->
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
