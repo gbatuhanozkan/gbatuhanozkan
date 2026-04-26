@@ -239,7 +239,6 @@ Tasarım & Simülasyon:
 
 </div>
 
-
 <div align="center">
 
 ### Programlama & Geliştirme
