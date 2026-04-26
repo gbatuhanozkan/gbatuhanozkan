@@ -167,13 +167,6 @@ Tasarım & Simülasyon:
 
 
 
-<div align="center">
-
-### 📊 Kullandığım Araçlar
-
-<img src="./animated-tools.svg" width="100%" alt="Animated Tools" />
-
-</div>
 
 <div align="center">
 
