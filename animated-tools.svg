@@ -1,31 +1,42 @@
-<svg width="700" height="150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="150" fill="#0d1117" rx="10"/>
-  
-  <image href="https://cdn.simpleicons.org/meta/1877F2" x="30" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/googleanalytics/E37400" x="130" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/googleads/4285F4" x="230" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/notion/000000" x="330" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/trello/0052CC" x="430" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.2s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/miro/050038" x="530" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
-  </image>
-  
-  <image href="https://cdn.simpleicons.org/anthropic/6B4FBB" x="620" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-20; 0,0" dur="2s" begin="1.8s" repeatCount="indefinite"/>
-  </image>
-</svg>
+<div align="center">
+
+### 📊 Kullandığım Araçlar
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white" /><br>
+  <sub><b>Reklam Yönetimi</b></sub>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /><br>
+  <sub><b>Veri Analizi</b></sub>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" /><br>
+  <sub><b>Kampanya Yönetimi</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /><br>
+  <sub><b>Proje Yönetimi</b></sub>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><br>
+  <sub><b>Görev Takibi</b></sub>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" /><br>
+  <sub><b>Beyin Fırtınası</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+  <img src="https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
+  <sub><b>Yapay Zeka Asistanı</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
