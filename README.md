@@ -540,14 +540,14 @@ Tekirdağ Namık Kemal Üniversitesi
   <td width="55%">
     <img src="https://geps.dev/progress/35?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
-  <td width="10%"><b>40%</b></td>
+  <td width="30%"><b>30%</b></td>
 </tr>
 <tr>
   <td width="35%"><b>🌍 Global Marka Tanınırlığı</b></td>
   <td width="55%">
     <img src="https://geps.dev/progress/15?dangerColor=ff4444&warningColor=ffaa00&successColor=00C851" />
   </td>
-  <td width="10%"><b>2%</b></td>
+  <td width="5%"><b>5%</b></td>
 </tr>
 </table>
 
