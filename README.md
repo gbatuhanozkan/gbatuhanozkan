@@ -6,9 +6,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Meta+Ads+Uzmanı+%26+Büyüme+Pazarlamacısı;E-Ticaret+Analitiği+%7C+ROI+Optimizasyonu;Gömülü+Sistemler+%26+IoT+Geliştirici;Dijital+Başarı+Hikayeleri+Oluşturuyorum" alt="Typing SVG" />
 </h3>
 
+
+<div align="center">
+
+## 📱 Benimle İletişime Geçin
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/batuhan-özkan-94119a295)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ziyaret_Et-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gbatuhanozkan.wordpress.com)
-[![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbatuhanozkan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Takip_Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://www.instagram.com/dijitalbatuhanozkan)
+[![YouTube](https://img.shields.io/badge/YouTube-Abone_Ol-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000)](https://www.youtube.com/@gbatuhanozkan)
+[![Twitter](https://img.shields.io/badge/Twitter-Takip_Et-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A8BD9)](https://x.com/gbatuhanozkan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ziyaret_Et-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19)](https://gbatuhanozkan.wordpress.com)
+[![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121)](mailto:gbatuhanozkan@gmail.com)
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mesaj-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/905438074853) -->
+
+</div>
+
+
+https://www.instagram.com/dijitalbatuhanozkan
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
