@@ -524,36 +524,6 @@ Tekirdağ Namık Kemal Üniversitesi
 
 <br>
 
-<div align="center">
-
-## 📱 Sosyal Medya İstatistiklerim
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="80" height="80"/><br>
-  <b>Instagram</b><br>
-  <img src="https://img.shields.io/badge/dynamic/json?logo=instagram&label=Takipçi&query=%24.data.user.edge_followed_by.count&url=https%3A%2F%2Fwww.instagram.com%2Fdigitalbatuhanozkan%2F%3F__a%3D1&style=for-the-badge&color=E4405F" alt="Instagram followers"/>
-</td>
-<td align="center">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="80" height="80"/><br>
-  <b>YouTube</b><br>
-  <img src="https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=for-the-badge&logo=youtube&color=FF0000&label=Abone" alt="YouTube Subscribers"/>
-</td>
-<td align="center">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="80" height="80"/><br>
-  <b>LinkedIn</b><br>
-  <img src="https://img.shields.io/badge/Bağlantı-500+-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn connections"/>
-</td>
-<td align="center">
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="80" height="80"/><br>
-  <b>Twitter</b><br>
-  <img src="https://img.shields.io/twitter/follow/gbatuhanozkan?style=for-the-badge&logo=twitter&color=1DA1F2&label=Takipçi" alt="Twitter followers"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 🎯 2026 Stratejik Hedefler
 
