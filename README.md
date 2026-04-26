@@ -288,12 +288,35 @@ Yapay zeka destekli reklam bütçe optimizasyon aracı. Makine öğrenmesi ile e
 > *veri odaklı stratejiler ve ölçülebilir sonuçlar üretiyorum.*  
 > *Her kampanya bir deney, her veri bir öğrenme fırsatıdır."*
 
-### 🎯 2024 Hedeflerim
-
+### 🎯 2026 Hedeflerim
 ```
-📊 1000+ Kişiye Dokunmak          ████████████░░░░░░░░  60% ✅
-💼 200+ Toplantı Rekor Kırmak     ██████░░░░░░░░░░░░░░  35% 📈
-🌍 Global Marka Olmak             ███░░░░░░░░░░░░░░░░░  15% 🚀
+<div align="center">
+
+<table>
+<tr>
+  <td width="35%"><b>📊 1000+ Kişiye Dokunmak</b></td>
+  <td width="55%">
+    <img src="https://geps.dev/progress/60" />
+  </td>
+  <td width="10%"><b>60%</b></td>
+</tr>
+<tr>
+  <td width="35%"><b>💼 200+ Toplantı Rekor Kırmak</b></td>
+  <td width="55%">
+    <img src="https://geps.dev/progress/35" />
+  </td>
+  <td width="10%"><b>35%</b></td>
+</tr>
+<tr>
+  <td width="35%"><b>🌍 Global Marka Olmak</b></td>
+  <td width="55%">
+    <img src="https://geps.dev/progress/15" />
+  </td>
+  <td width="10%"><b>15%</b></td>
+</tr>
+</table>
+
+</div>
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
