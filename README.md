@@ -169,73 +169,9 @@ Tasarım & Simülasyon:
 
 <div align="center">
 
-### 📊 Kullandığım Araçlar - İşte Ekibim! 🎮
+### 📊 Kullandığım Araçlar
 
-<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="600" height="150" fill="#0d1117" rx="10"/>
-  
-  <!-- Moving line (like a game level) -->
-  <line x1="0" y1="75" x2="600" y2="75" stroke="#30363d" stroke-width="2" stroke-dasharray="10,5">
-    <animate attributeName="stroke-dashoffset" from="0" to="30" dur="2s" repeatCount="indefinite"/>
-  </line>
-  
-  <!-- Meta - Bouncing ball -->
-  <image href="https://cdn.simpleicons.org/meta/1877F2" x="20" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 0,-30; 0,0; 0,15; 0,0" 
-      dur="2s" repeatCount="indefinite"/>
-  </image>
-  
-  <!-- Google Analytics - Wave motion -->
-  <image href="https://cdn.simpleicons.org/googleanalytics/E37400" x="100" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; -10,-20; 0,0; 10,20; 0,0" 
-      dur="3s" repeatCount="indefinite"/>
-  </image>
-  
-  <!-- Google Ads - Rotating -->
-  <image href="https://cdn.simpleicons.org/googleads/4285F4" x="180" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="rotate" 
-      values="0 210 75; 360 210 75" 
-      dur="4s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 0,-15; 0,0" 
-      dur="2s" repeatCount="indefinite" additive="sum"/>
-  </image>
-  
-  <!-- Notion - Pulse -->
-  <image href="https://cdn.simpleicons.org/notion/000000" x="260" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="scale" 
-      values="1 1; 1.3 1.3; 1 1" 
-      dur="2.5s" repeatCount="indefinite" additive="sum"/>
-  </image>
-  
-  <!-- Trello - Jump -->
-  <image href="https://cdn.simpleicons.org/trello/0052CC" x="340" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 0,-40; 0,0" 
-      dur="1.5s" repeatCount="indefinite"/>
-  </image>
-  
-  <!-- Miro - Shake -->
-  <image href="https://cdn.simpleicons.org/miro/050038" x="420" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 5,0; -5,0; 0,0" 
-      dur="0.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 0,-20; 0,0" 
-      dur="2s" repeatCount="indefinite" additive="sum"/>
-  </image>
-  
-  <!-- Claude AI - Float & Glow -->
-  <image href="https://cdn.simpleicons.org/anthropic/6B4FBB" x="500" y="45" width="60" height="60">
-    <animateTransform attributeName="transform" type="translate" 
-      values="0,0; 0,-10; 0,-20; 0,-10; 0,0" 
-      dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1; 0.5; 1" dur="2s" repeatCount="indefinite"/>
-  </image>
-</svg>
+<img src="./animated-tools.svg" width="100%" alt="Animated Tools" />
 
 </div>
 
