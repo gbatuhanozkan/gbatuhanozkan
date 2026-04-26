@@ -9,7 +9,9 @@
 
 <div align="center">
 
-## 📱 Benimle İletişime Geçin
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/batuhan-özkan-94119a295)
 [![Instagram](https://img.shields.io/badge/Instagram-Takip_Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://www.instagram.com/dijitalbatuhanozkan)
@@ -19,7 +21,6 @@
 [![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121)](mailto:gbatuhanozkan@gmail.com)
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mesaj-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/905438074853) -->
 
-</div>
 
 
 
