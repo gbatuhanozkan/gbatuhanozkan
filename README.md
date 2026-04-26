@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/batuhan-özkan-94119a295)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ziyaret_Et-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gbatuhanozkan.wordpress.com)
 [![Email](https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbatuhanozkan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mesaj-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905438074853)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -156,7 +155,6 @@ Tasarım & Simülasyon:
 
 </div>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
@@ -166,6 +164,81 @@ Tasarım & Simülasyon:
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
+
+
+
+<div align="center">
+
+### 📊 Kullandığım Araçlar - İşte Ekibim! 🎮
+
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="150" fill="#0d1117" rx="10"/>
+  
+  <!-- Moving line (like a game level) -->
+  <line x1="0" y1="75" x2="600" y2="75" stroke="#30363d" stroke-width="2" stroke-dasharray="10,5">
+    <animate attributeName="stroke-dashoffset" from="0" to="30" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Meta - Bouncing ball -->
+  <image href="https://cdn.simpleicons.org/meta/1877F2" x="20" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 0,-30; 0,0; 0,15; 0,0" 
+      dur="2s" repeatCount="indefinite"/>
+  </image>
+  
+  <!-- Google Analytics - Wave motion -->
+  <image href="https://cdn.simpleicons.org/googleanalytics/E37400" x="100" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; -10,-20; 0,0; 10,20; 0,0" 
+      dur="3s" repeatCount="indefinite"/>
+  </image>
+  
+  <!-- Google Ads - Rotating -->
+  <image href="https://cdn.simpleicons.org/googleads/4285F4" x="180" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="rotate" 
+      values="0 210 75; 360 210 75" 
+      dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 0,-15; 0,0" 
+      dur="2s" repeatCount="indefinite" additive="sum"/>
+  </image>
+  
+  <!-- Notion - Pulse -->
+  <image href="https://cdn.simpleicons.org/notion/000000" x="260" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="scale" 
+      values="1 1; 1.3 1.3; 1 1" 
+      dur="2.5s" repeatCount="indefinite" additive="sum"/>
+  </image>
+  
+  <!-- Trello - Jump -->
+  <image href="https://cdn.simpleicons.org/trello/0052CC" x="340" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 0,-40; 0,0" 
+      dur="1.5s" repeatCount="indefinite"/>
+  </image>
+  
+  <!-- Miro - Shake -->
+  <image href="https://cdn.simpleicons.org/miro/050038" x="420" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 5,0; -5,0; 0,0" 
+      dur="0.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 0,-20; 0,0" 
+      dur="2s" repeatCount="indefinite" additive="sum"/>
+  </image>
+  
+  <!-- Claude AI - Float & Glow -->
+  <image href="https://cdn.simpleicons.org/anthropic/6B4FBB" x="500" y="45" width="60" height="60">
+    <animateTransform attributeName="transform" type="translate" 
+      values="0,0; 0,-10; 0,-20; 0,-10; 0,0" 
+      dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1; 0.5; 1" dur="2s" repeatCount="indefinite"/>
+  </image>
+</svg>
+
+</div>
+
 
 <div align="center">
 
@@ -508,9 +581,7 @@ Tekirdağ Namık Kemal Üniversitesi
   <a href="mailto:gbatuhanozkan@gmail.com">
     <img src="https://img.shields.io/badge/Email-gbatuhanozkan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/905438074853">
-    <img src="https://img.shields.io/badge/WhatsApp-+90_543_807_4853-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+ 
 </p>
 
 <p align="center">
