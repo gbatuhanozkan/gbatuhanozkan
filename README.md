@@ -122,17 +122,23 @@ Tasarım & Simülasyon:
 ### Analitik & Verimlilik
 
 </div>
-<table align="center">
-<tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br><b>Meta Business</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/><br><b>Google Analytics</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br><b>Google Ads</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/><br><b>Notion</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/><br><b>Trello</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/><br><b>Miro</b></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/><br><b>Claude AI</b></td>
-</tr>
-</table>
+
+
+<div align="center">
+
+### 📊 Kullandığım Araçlar
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/meta/1877F2" width="60" height="60" alt="Meta Business" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="60" height="60" alt="Google Analytics" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="60" height="60" alt="Google Ads" />
+  <img src="https://cdn.simpleicons.org/notion/000000" width="60" height="60" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" width="60" height="60" alt="Trello" />
+  <img src="https://cdn.simpleicons.org/miro/050038" width="60" height="60" alt="Miro" />
+  <img src="https://cdn.simpleicons.org/anthropic/6B4FBB" width="60" height="60" alt="Claude AI" />
+</p>
+
+</div>
 
 
 <p align="center">
