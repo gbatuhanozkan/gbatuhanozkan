@@ -210,12 +210,12 @@ Tasarım & Simülasyon:
 <tr>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br>
-  <b>%340</b><br>
+  <b>%250</b><br>
   <sub>ROI Artışı</sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="60"/><br>
-  <b>10M+</b><br>
+  <b>2M+</b><br>
   <sub>Organik Erişim</sub>
 </td>
 <td align="center" width="25%">
@@ -225,7 +225,7 @@ Tasarım & Simülasyon:
 </td>
 <td align="center" width="25%">
   <img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="60"/><br>
-  <b>50K+</b><br>
+  <b>5K+</b><br>
   <sub>Takipçi Büyümesi</sub>
 </td>
 </tr>
